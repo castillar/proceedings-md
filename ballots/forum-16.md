@@ -1,7 +1,7 @@
 ---
-title: Ballot FORUM-16 – Election of CA/Browser Forum Vice Chair
+title: "Ballot FORUM-16 – Election of CA/Browser Forum Vice Chair"
 post_status: publish
-post_excerpt: This special ballot is to confirm the new Vice Chair of the CA/Browser Forum.
+post_excerpt: "This special ballot is to confirm the new Vice Chair of the CA/Browser Forum."
 taxonomy:
     category: 
         - ballots

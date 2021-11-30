@@ -1,7 +1,7 @@
 ---
-title: Ballot FORUM-15 - Election of CA/Browser Forum Chair
+title: "Ballot FORUM-15 - Election of CA/Browser Forum Chair"
 post_status: publish
-post_excerpt: This special ballot is to confirm the new Chair of the CA/Browser Forum.
+post_excerpt: "This special ballot is to confirm the new Chair of the CA/Browser Forum."
 taxonomy:
     category: 
         - ballots

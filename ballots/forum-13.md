@@ -1,7 +1,7 @@
 ---
-title: Ballot FORUM-13 - Correction to Code-Signing Working Group Charter
+title: "Ballot FORUM-13 - Correction to Code-Signing Working Group Charter"
 post_status: publish
-post_excerpt: This ballot modifies the CSCWG charter to correct an error in the original document in Section 4.2.2.
+post_excerpt: "This ballot modifies the CSCWG charter to correct an error in the original document in Section 4.2.2."
 taxonomy:
     category: 
         - ballots

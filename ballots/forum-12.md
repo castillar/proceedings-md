@@ -1,7 +1,7 @@
 ---
-title: Ballot Forum-12 - Update CA/B Forum Bylaws
+title: "Ballot Forum-12 - Update CA/B Forum Bylaws"
 post_status: publish
-post_excerpt: The Forum has identified and discussed a number of improvements to be made to the current version of the Bylaws to improve clarity and allow the Forum to function more effectively.
+post_excerpt: "The Forum has identified and discussed a number of improvements to be made to the current version of the Bylaws to improve clarity and allow the Forum to function more effectively."
 taxonomy:
     category: 
         - ballots

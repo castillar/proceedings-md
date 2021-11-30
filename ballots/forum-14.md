@@ -1,7 +1,7 @@
 ---
-title: Ballot FORUM-14 – Creation of S/MIME Certificates Working Group v2
+title: "Ballot FORUM-14 – Creation of S/MIME Certificates Working Group v2"
 post_status: publish
-post_excerpt: This ballot would establish a working group chartered to develop and maintain such standards for S/MIME certificates, including but not limited to two important priorities: a uniform certificate profile for the issuance of publicly-trusted S/MIME certificates, and validation requirements for such certificates.
+post_excerpt: "This ballot would establish a working group chartered to develop and maintain such standards for S/MIME certificates, including but not limited to two important priorities: a uniform certificate profile for the issuance of publicly-trusted S/MIME certificates, and validation requirements for such certificates."
 taxonomy:
     category: 
         - ballots
